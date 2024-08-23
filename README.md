@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My solution URL](https://www.frontendmentor.io/solutions/single-price-grid-component-m0RCLOw5Y0)
-- Live Site URL: [My live site URL](https://cloudydaiyz.github.io/webdev-learning-center/02-web-dev-bootcamp/pricing-card)
+- Live Site URL: [My live site URL](http://github.cloudydaiyz.com/pricing-card/)
 
 ## My process
 
